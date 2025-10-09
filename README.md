@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Veereshdoddamani/Leetcode/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/Veereshdoddamani/Leetcode/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Veereshdoddamani/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/Veereshdoddamani/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Veereshdoddamani/Leetcode/tree/master/0054-spiral-matrix) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Veereshdoddamani/Leetcode/tree/master/0015-3sum) |
 | [0151-reverse-words-in-a-string](https://github.com/Veereshdoddamani/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Veereshdoddamani/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Simulation
@@ -57,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Veereshdoddamani/Leetcode/tree/master/0054-spiral-matrix) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Veereshdoddamani/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/Veereshdoddamani/Leetcode/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
