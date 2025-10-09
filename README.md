@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Veereshdoddamani/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Veereshdoddamani/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [2047-find-a-peak-element-ii](https://github.com/Veereshdoddamani/Leetcode/tree/master/2047-find-a-peak-element-ii) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Veereshdoddamani/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
 | ------- |
@@ -50,8 +51,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Veereshdoddamani/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Veereshdoddamani/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Veereshdoddamani/Leetcode/tree/master/0054-spiral-matrix) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Veereshdoddamani/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
