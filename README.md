@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Veereshdoddamani/Leetcode/tree/master/0054-spiral-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Veereshdoddamani/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Veereshdoddamani/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/Veereshdoddamani/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [2047-find-a-peak-element-ii](https://github.com/Veereshdoddamani/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Veereshdoddamani/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Binary Search
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Veereshdoddamani/Leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Veereshdoddamani/Leetcode/tree/master/0013-roman-to-integer) |
+| [0560-subarray-sum-equals-k](https://github.com/Veereshdoddamani/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Math
 |  |
 | ------- |
@@ -66,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Veereshdoddamani/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Veereshdoddamani/Leetcode/tree/master/0018-4sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Veereshdoddamani/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
