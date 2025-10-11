@@ -49,11 +49,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Veereshdoddamani/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/Veereshdoddamani/Leetcode/tree/master/0013-roman-to-integer) |
 | [0151-reverse-words-in-a-string](https://github.com/Veereshdoddamani/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Veereshdoddamani/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/Veereshdoddamani/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Veereshdoddamani/Leetcode/tree/master/0018-4sum) |
 | [0151-reverse-words-in-a-string](https://github.com/Veereshdoddamani/Leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -72,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Veereshdoddamani/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Veereshdoddamani/Leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
