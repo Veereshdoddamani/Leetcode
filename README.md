@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Veereshdoddamani/Leetcode/tree/master/0054-spiral-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Veereshdoddamani/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Veereshdoddamani/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Veereshdoddamani/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Veereshdoddamani/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/Veereshdoddamani/Leetcode/tree/master/0792-binary-search) |
 | [2047-find-a-peak-element-ii](https://github.com/Veereshdoddamani/Leetcode/tree/master/2047-find-a-peak-element-ii) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Veereshdoddamani/Leetcode/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Veereshdoddamani/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Veereshdoddamani/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Veereshdoddamani/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Veereshdoddamani/Leetcode/tree/master/0792-binary-search) |
 | [2047-find-a-peak-element-ii](https://github.com/Veereshdoddamani/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 ## Divide and Conquer
