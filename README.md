@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Veereshdoddamani/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/Veereshdoddamani/Leetcode/tree/master/0013-roman-to-integer) |
+| [0125-valid-palindrome](https://github.com/Veereshdoddamani/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Veereshdoddamani/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 ## Two Pointers
 |  |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Veereshdoddamani/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/Veereshdoddamani/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Veereshdoddamani/Leetcode/tree/master/0018-4sum) |
+| [0125-valid-palindrome](https://github.com/Veereshdoddamani/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Veereshdoddamani/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/Veereshdoddamani/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0908-middle-of-the-linked-list](https://github.com/Veereshdoddamani/Leetcode/tree/master/0908-middle-of-the-linked-list) |
